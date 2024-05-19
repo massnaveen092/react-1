@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+
+.button {
+  background-color: #c4c4c4;
+  color: white;
+  border-radius: 5px;
+  border: solid 3px;
+  margin: 5px;
+}
